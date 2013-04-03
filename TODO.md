@@ -9,3 +9,4 @@ line through point = completed
 * list vhosts
 * ability to edit vhosts
 * enable / disable vhosts temporarily
+* utility settings
