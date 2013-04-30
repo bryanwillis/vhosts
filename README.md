@@ -2,7 +2,7 @@
 An unimaginatively named command line utility for managing Apache vhosts on Mac OS X.
 ## vhosts manages vhosts
 
-When developing for the web locally, I find myself loading up files from really long file paths in the browser. The typing of these takes time, looks ugly and only works for static sites.
+When developing for the web locally, you probably find yourself loading up files from really long file paths in the browser. The typing of these takes time, looks ugly and only works for static sites.
 
 If you want to work with dynamic sites in languages such as PHP, you have to mess around with apache configuration files, add vhosts and whatnot. It's boring and tedious.
 
